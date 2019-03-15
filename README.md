@@ -1,6 +1,7 @@
 # scoop-bucket
-synergy
 
+for installation of scoop on windows please see [scoop](https://scoop.sh/)
+ 
 #configure your git and copy your private key into id_rsa from github or your linux machine
 
 * C:\Users\my\.ssh\id_rsa
