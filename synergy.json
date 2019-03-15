@@ -3,5 +3,5 @@
     "description": "Portable synergy.",
     "version": "1.0.0",
     "url": "https://github.com/morapet/synergy-core/releases/download/synergy-v1.0.21/bin.zip",
-    "bin": "Release\synergy-core.exe"
+    "bin": "Release\\synergy-core.exe"
 }
