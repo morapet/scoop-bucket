@@ -12,12 +12,15 @@ for installation of scoop on windows please see [scoop](https://scoop.sh/)
 * $env:no_proxy = "mycompany.com"
 
 # add repo
+```
 scoop bucket add synergy git@github.com:morapet/scoop-bucket.git
-
-#run server
+```
+# run server
+```
 synergys --debug INFO --name server --address :8080-c configuration-demo.cfg --no-daemon
-
-#run client
+```
+# run client
+```
 synergy-core.exe --client --name client <host>:8080
-
+```
 * host - server ip
