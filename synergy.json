@@ -1,0 +1,7 @@
+{
+    "homepage": "https://github.com/symless/synergy-core",
+    "description": "Portable synergy.",
+    "version": "1.0.0",
+    "url": "",
+    "bin": "synergy-core.exe"
+}
