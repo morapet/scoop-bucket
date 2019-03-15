@@ -17,7 +17,7 @@ scoop bucket add synergy git@github.com:morapet/scoop-bucket.git
 ```
 # run server
 ```
-synergys --debug INFO --name server --address :8080-c configuration-demo.cfg --no-daemon
+synergys --debug INFO --name server --address :8080 -c configuration-demo.cfg --no-daemon
 ```
 # run client
 ```
